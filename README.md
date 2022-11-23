@@ -1,5 +1,5 @@
 # REIS-DQM Backend
-## This is my internship Backend developed with Java Spring Boot !
+## This Backend was developed during my internship in Vneuron INC !
 - Collecting data with Talend Data Integration.
 - Integrating and calling Talend jobs in this project.
 - Saving business rules in configuration file.
