@@ -5,6 +5,8 @@
 - Saving business rules in configuration file.
 - Implementation of Web sockets.
 - Non-Blocking API.
+- Communication with external Python API.
+- Reporting using JasperSoft
 ## Technologies : 
 - Java Spring Boot 
 - PostgreSQL
